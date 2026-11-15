@@ -9,7 +9,7 @@
     "parser"
   ],
   "type": "module",
-  "main": "dist/jspython-interpreter.min.js",
+  "main": "dist/jspython-interpreter.esm.js",
   "module": "dist/jspython-interpreter.esm.js",
   "typings": "dist/interpreter.d.ts",
   "files": [
